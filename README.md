@@ -1,1 +1,2 @@
-# GitHub5MergeConflits
+Ligne 01
+Ligne 02
